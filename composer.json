@@ -1,5 +1,5 @@
 {
-  "name": "rustem-kaimolla/kazpost-api",
+  "name": "kliker02/kazpost-api",
   "description": "Пакет для работы с API КазПочты Казахстан",
   "minimum-stability": "dev",
   "license": "LGPL-2.1-only",
@@ -7,6 +7,10 @@
     {
       "name": "Rustem Kaimolla",
       "email": "rustem@exact.kz"
+    },
+    {
+      "name": "Aleksandr Tokunov",
+      "email": "laker.tv@bk.ru"
     }
   ],
   "require": {
